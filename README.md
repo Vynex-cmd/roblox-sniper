@@ -1,6 +1,6 @@
 # roblox-sniper
 Make sure to have python installed, then install the required components:
-pip install requests
+pip install requests and
 pip install colorama
 After installing those using powershell open the text named Usernames
 Go to https://www.random.org/strings/ and generate the ammount you want and the length
